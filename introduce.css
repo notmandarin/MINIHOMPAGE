@@ -1,0 +1,44 @@
+header {
+    background-color:#FFD9F4;
+    padding: 20px;
+    text-align: center;
+    color: #734D44;
+}
+main {
+    display: flex;
+    justify-content: center;
+    flex-flow: nowrap;
+    text-align: center;
+    color: #734D44;
+}
+
+
+#information {
+    width: 30%;
+    margin-bottom: 10%;
+    background-color: #fff;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#a, #b, #c {
+    background-color:#ffe7e7;
+    border:#734D44;
+    border-radius: 10%;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+button {
+    background-color: #f8b195;
+    color:azure;
+    font-size: 20px;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+img {
+    margin: 20px;
+  }
